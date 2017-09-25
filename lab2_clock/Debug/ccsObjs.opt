@@ -1,0 +1,1 @@
+"./lab2_clock_startup_msp432p401r_ccs.obj" "./lab2_clock_system.obj" "./system_msp432p401r.obj" "../msp432p401r.cmd" "../msp432p4xx_driverlib.lib" -llibc.a 

@@ -1,7 +1,4 @@
-/*
- * main.c
- */
-// LED
+
 #define GREEN_LED       GPIO_PIN_3
 
 // I2C
